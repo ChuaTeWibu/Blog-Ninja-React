@@ -1,12 +1,18 @@
-*.venv
-*__pycache__
-*.pyc
-*.pyo
-*.pyd
-*.pyw
-*.pyz
+# # Python virtual environment
+# *.venv
+# *.env
 
-*.db
-*.sqlite3
-*.sqlite
-*.db3
+# # Python bytecode and cache
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+# *.pyw
+# *.pyz
+# __pycache__/
+
+# # Database files
+# *.db
+# *.sqlite3
+# *.sqlite
+# *.db3
